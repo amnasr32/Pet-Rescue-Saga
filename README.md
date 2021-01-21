@@ -14,23 +14,22 @@
         pour lancer :    java Jeu &
         
         
-   *******************    
-			Comment jouer ?
+  Comment jouer ?
 
-			  Principe du jeu: 
+	 Principe du jeu: 
 	
-			  tout ce qu'il faut faire pour franchir une étape dans Pet Rescue Saga,c'est d'éliminer le
-			  maximum de briques en un minimum de mouevments. Pour ce faire, le joueur doit réaliser des associations de cubes
-			  de même couleur afin qu'ils s'effondrent.Des points sont cumulés au fur et à mesure que l'on avance 
-			  Les mouvements sont limités, alors planifiez-les soigneusement. Vos compétences en matière de puzzle seront
-		   testées avec des heures de plaisir à casser des blocs!
+	 tout ce qu'il faut faire pour franchir une étape dans Pet Rescue Saga,c'est d'éliminer le
+	 maximum de briques en un minimum de mouevments. Pour ce faire, le joueur doit réaliser des associations de cubes
+	 de même couleur afin qu'ils s'effondrent.Des points sont cumulés au fur et à mesure que l'on avance 
+	 Les mouvements sont limités, alors planifiez-les soigneusement. Vos compétences en matière de puzzle seront
+         testées avec des heures de plaisir à casser des blocs!
      
-     **********************
+   
      
-    Déjà fan de Pet Rescue Saga?
-    **************************
+Déjà fan de Pet Rescue Saga?
+   
   
-   Vous avez quelques remarques? Des idées à nous transmettre ? Merci de nous écrire sur:
+     Vous avez quelques remarques? Des idées à nous transmettre ? Merci de nous écrire sur:
 			<nasramira8@gmail.com>
 			
-			Enfin, un grand MERCI à tous ceux qui ont joué à notre version de Pet Rescue Saga! Amusez vous bien!
+Enfin, un grand MERCI à tous ceux qui ont joué à notre version de Pet Rescue Saga! Amusez vous bien!
